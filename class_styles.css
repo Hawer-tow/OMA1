@@ -1,0 +1,164 @@
+
+@media screen and (max-width:800px) {
+	.left,.middle,.right {width: 100%;}
+}
+
+.table_headers{
+	font-size: 110%;
+	color: navajowhite;
+}
+
+.foods3{
+	border: 1px solid black;
+	width: 100%;
+	height: 500px;
+}
+
+.foods{
+	border: 1px solid black;
+	width: 30%;
+	height: 500px;
+	background-color: black;
+		background-image:url("imager/nathan2.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
+	float: left;	
+}
+
+.foods2{
+	border: 1px solid black;
+	width: 69.7%;
+	height: 500px;
+	background-color: black;
+		background-image:url("imager/steak1.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
+	float: left;
+}
+
+.start{
+	border: 1px solid black;
+	height: 300px;
+	width: 100%;
+}
+
+.history{
+	border: 0.5px solid white;
+	height: 300px;
+	width: 50%;
+	text-align: center;
+	background-color: black;
+	color: darkgoldenrod;
+	float: left;
+}
+
+.beef_history{
+	border: 0.5px solid white;
+	height: 300px;
+	width: 49.7%;
+	text-align: center;
+	background-color: black;
+	color: darkgoldenrod;
+	float: left;
+}
+
+.beef_histyle{
+	style:none;
+	color: ghostwhite;
+}
+
+.contact{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	height: 250px;
+	width: 100%;
+	text-align: center;
+	float: left;
+	text-align: center;
+	border-radius: 10px;
+}
+
+
+.prev_button{
+	height: 30px;
+	width: 30px;
+	margin-top: 230px;
+	float: left;
+	background-color: lightblue;
+}
+
+.next_button{
+	height: 30px;
+	width: 30px;
+	margin-top: 230px;
+	float: left;
+	background-color: lightblue;
+	float: right;
+}
+
+table{
+	width: 100%;
+	height: 600px;
+	background-image: url(imager/steak1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+
+		
+}
+
+table,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	border-radius: 10px;
+}
+
+th{
+	color: white;
+}
+
+td{
+	color: white;
+}
+
+h1{
+		text-align: center;
+	font-family: inherit;
+	color: white;
+	background-image:url("imager/steak1.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
+	height: 40px;
+	width: 100%;
+	border-radius: 15px;
+	
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-bottom: 1px;
+}
+
+
+h2{
+	text-align: center;
+	font-family: inherit;
+	color: darkturquoise;
+	background-image:url("imager/dragon_fruit.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
+	height: 40px;
+	width: 100%;
+	border-radius: 15px;
+	
+	padding-top: 10px;
+	margin-top: 1px;
+	margin-bottom: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: gold;
+}
+
+a:hover{
+	color: darkturquoise;
+}
